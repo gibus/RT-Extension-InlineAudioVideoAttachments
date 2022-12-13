@@ -2,7 +2,7 @@ use inc::Module::Install;
 use utf8;
 
 RTx 'RT-Extension-InlineAudioVideoAttachments';
-license 'gpl_3';
+license 'gplv3';
 repository 'https://github.com/gibus/RT-Extension-InlineAudioVideoAttachments';
 
 requires_rt('4.4.0');
