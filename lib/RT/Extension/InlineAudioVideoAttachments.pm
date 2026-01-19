@@ -18,7 +18,7 @@ Displays audio and/or video attachments with HTML audio/video player.
 
 =head1 RT VERSION
 
-Use version v0.07 with RT 4.4, and v0.08 with RT 5.
+Use version v0.07 with RT 4.4, v0.08 with RT 5, and v0.09 or greater with RT 6 .
 
 =head1 INSTALLATION
 
