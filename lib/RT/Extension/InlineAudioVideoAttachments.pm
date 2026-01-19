@@ -74,7 +74,7 @@ L<rt.cpan.org|http://rt.cpan.org/Public/Dist/Display.html?Name=RT-Extension-Inli
 
 =head1 LICENSE AND COPYRIGHT
 
-This software is Copyright (c) 2018-2022 by Gérald Sédrati, Easter-Eggs
+This software is Copyright (c) 2018-2026 by Gérald Sédrati, Easter-Eggs
 
 This is free software, licensed under:
 
