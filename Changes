@@ -1,5 +1,8 @@
 Revision history for RT-Extension-InlineAudioVideoAttachments
 
+0.10  2026-01-27
+ - Fix install errors due to debian version of Module::Install::RTx
+
 0.09  2026-01-19
  - Update copyright year to 2026
  - Perl 5.26 and newer remove '.' from @inc by default. Re-add to Makefile.PL to enable installation on newer Perl releases.

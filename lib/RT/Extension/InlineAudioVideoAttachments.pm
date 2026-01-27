@@ -4,7 +4,7 @@ use warnings;
 no warnings qw(redefine);
 package RT::Extension::InlineAudioVideoAttachments;
 
-our $VERSION = '0.09';
+our $VERSION = '0.10';
 
 =encoding utf8
 
